@@ -58,7 +58,7 @@
 
 ;
 
-Q: Nile Tour
+Q: Nile Cruise
 A: ${ nile-tour }
 --
 
