@@ -9,6 +9,6 @@
 
 # Creators
 1. [kyyeo](https://github.com/kyyeo)
-2. Nana
+2. [Nana](https://github.com/nothingelsewhere)
 3. [Chloe](https://github.com/Khloeli/)
-4. Ethan
+4. [Ethan](https://github.com/jedi958)
