@@ -57,9 +57,9 @@
     {{
         "Tips for Visitors" 
         "Discover Egypt"
-        "Nile Tour"
-        "Temple Tour"
-        "Pyramid Tour"
+        "Nile Cruise"
+        "Digital Temples"
+        "Digital Pyramids"
         "Quiz"
         "Book a Tour"
     }} mk-menu
