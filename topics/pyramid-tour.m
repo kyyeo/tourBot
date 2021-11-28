@@ -24,7 +24,7 @@
 
 
 \ Use a template to trigger "pyramid-tour.m"
-Q: pyramid tour
+Q: digital pyramids
 A: ${ discoverPyramid }
 K: $clear pyramidKey
 --
