@@ -60,6 +60,7 @@
 
 Q: Nile Cruise
 A: ${ nile-tour }
+K: $clear what-is-included-key
 --
 
 Q: Itinery
@@ -82,6 +83,10 @@ search: what-is-included
 "Belly dance and traditional folk music performance will be available on board"
 }} +what-is-included
 
-Q: $x.@keyword
-A: ${ $x what-is-included }
---
+room: what-is-included-key
+
+    Q: $x.@keyword
+    A: ${ $x what-is-included }
+    --
+
+end-room
