@@ -57,13 +57,17 @@ K: $clear
 room: tipsvisitorKey
     Q: When to Go
     \ MM https://cdn.pixabay.com/photo/2017/07/13/09/04/pyramids-2499780_960_720.jpg
-    MM The best time to go to Egypt is surely between October and April. The tourist high season is considered from December to February, so if you come slightly out of season you will also enjoy cheaper hotel prices and fewer crowds. Also, make sure to avoid traveling during Ramadan.
+    MM The best time to go to Egypt is surely between October and April. 
+    MM The tourist high season is considered from December to February, so if you come slightly out of season you will also enjoy cheaper hotel prices and fewer crowds. 
+    MM Also, make sure to avoid traveling during Ramadan.
     M. ${tips-visitor}
     --
 
     Q: How Much Does it Cost
     \ MM https://cdn.pixabay.com/photo/2016/04/21/19/10/egypt-1344318_960_720.jpg
-    MM Not much. Egypt is comparatively cheap if you’re coming from a developed nation. For a bed in a dorm, you’ll usually pay about $4, guesthouse would be about $12 per night and a higher standard shouldn’t be more than $150. If you’re backpacking you could get by for $30 a day without any issues.
+    MM Not much. Egypt is comparatively cheap if you’re coming from a developed nation. 
+    MM For a bed in a dorm, you’ll usually pay about ${"$4"}, guesthouse would be about ${"$12"} per night and a higher standard shouldn’t be more than ${"$150"}. 
+    MM If you’re backpacking you could get by for ${"$30"} a day without any issues.
     M. ${tips-visitor}
     --
 
