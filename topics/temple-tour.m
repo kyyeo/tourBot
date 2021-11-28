@@ -41,7 +41,7 @@
 
 
 \ Second, use a template to trigger "discover-egypt.m"
-Q: temple tour
+Q: digital temples
 A: ${discoverTemple}
 K: $clear templeKey
 --
